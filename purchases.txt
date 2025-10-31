@@ -1,0 +1,9 @@
+
+        2025-10-31T09:27:02.428Z, amount paid: €1000, price per Oz: €3465, gold sold: 0.29
+    
+
+        2025-10-31T10:42:19.061Z, amount paid: €1000, price per Oz: €3457.62, gold sold: 0.29
+    
+
+        2025-10-31T10:43:36.356Z, amount paid: €200, price per Oz: €3458.52, gold sold: 0.06
+    
